@@ -49,20 +49,17 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shrijadwivedi-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrijadwivedi-web&theme=github_dark)
 
-![](https://nirzak-streak-stats.vercel.app/?user=shrijadwivedi-web&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=shrijadwivedi-web&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrijadwivedi-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrijadwivedi-web&theme=github_dark)
 
----
+## 📈 Contribution Graph
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=shrijadwivedi-web&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Shrija's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrijadwivedi-web&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=shrijadwivedi-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
