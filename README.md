@@ -1,12 +1,7 @@
 ## Welcome to Shrija's Github
 
-# 💫 About Me:
-🔭 I’m focused on building practical full-stack web applications and solving real-world problems through clean, efficient code.<br><br>
-👯 I’m open to collaborating on meaningful software projects, open-source contributions, and modern web development applications.<br><br>
-🤝 I’m interested in scalable application development, problem-solving, and creating user-focused digital experiences.<br><br>
-🌱 I’m currently advancing my skills in Data Structures & Algorithms, full-stack development, and AI/ML fundamentals.<br><br>
-💬 Ask me about C++, DSA, web development, React, Node.js, and project building.<br><br>
-⚡ Fun fact: I enjoy building projects that combine functionality, design, and real-world usefulness.<br>
+# About Me:
+Computer Science student passionate about full-stack development, scalable web applications, and AI-driven software solutions. I build practical projects using React, Node.js, Express.js, MongoDB, MySQL, C++, and Python, with a focus on clean architecture, REST APIs, database systems, and responsive user experiences. Currently strengthening my DSA, backend engineering, and production-ready development skills.
 
 ---
 
